@@ -1,0 +1,2 @@
+A Third Person Character Controller that uses some of the design tricks/tips mentioned in the GDC talk ( 50 third person camera mistkaes?). The camera controller was developed a couple of years ago. The character controller was coded pretty recently and the two were then merged.
+
